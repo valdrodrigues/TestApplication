@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>TestApplication</name>
+    </assembly>
+    <members>
+        <member name="M:TestApplication.Controllers.INSSController.CalcularDescontoInss(System.DateTime,System.Decimal)">
+             <summary>
+             Calcula o desconto do INSS sobre o salário
+             </summary>
+             <param name="data">Data</param>
+             <param name="salario">Salario</param>
+             <returns>Valor do desconto sobre o salário</returns>
+             <remarks>
+             Sample request:
+            
+                 GET
+                 {
+                    "data": 12/12/2011,
+                    "salario": 2500.00
+                 }
+            
+             </remarks>
+             <response code="500">Internal server error</response>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,10 @@
+C:\Users\vjunior\source\repos\TestApplication\TestApplication.Domain\bin\Debug\netcoreapp3.1\TestApplication.Domain.deps.json
+C:\Users\vjunior\source\repos\TestApplication\TestApplication.Domain\bin\Debug\netcoreapp3.1\TestApplication.Domain.dll
+C:\Users\vjunior\source\repos\TestApplication\TestApplication.Domain\bin\Debug\netcoreapp3.1\TestApplication.Domain.pdb
+C:\Users\vjunior\source\repos\TestApplication\TestApplication.Domain\obj\Debug\netcoreapp3.1\TestApplication.Domain.csproj.AssemblyReference.cache
+C:\Users\vjunior\source\repos\TestApplication\TestApplication.Domain\obj\Debug\netcoreapp3.1\TestApplication.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vjunior\source\repos\TestApplication\TestApplication.Domain\obj\Debug\netcoreapp3.1\TestApplication.Domain.AssemblyInfoInputs.cache
+C:\Users\vjunior\source\repos\TestApplication\TestApplication.Domain\obj\Debug\netcoreapp3.1\TestApplication.Domain.AssemblyInfo.cs
+C:\Users\vjunior\source\repos\TestApplication\TestApplication.Domain\obj\Debug\netcoreapp3.1\TestApplication.Domain.csproj.CoreCompileInputs.cache
+C:\Users\vjunior\source\repos\TestApplication\TestApplication.Domain\obj\Debug\netcoreapp3.1\TestApplication.Domain.dll
+C:\Users\vjunior\source\repos\TestApplication\TestApplication.Domain\obj\Debug\netcoreapp3.1\TestApplication.Domain.pdb

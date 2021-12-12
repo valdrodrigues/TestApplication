@@ -1,0 +1,13 @@
+C:\Users\vjunior\source\repos\TestApplication\TestApplication.Infra\bin\Debug\netcoreapp3.1\TestApplication.Infra.deps.json
+C:\Users\vjunior\source\repos\TestApplication\TestApplication.Infra\bin\Debug\netcoreapp3.1\TestApplication.Infra.dll
+C:\Users\vjunior\source\repos\TestApplication\TestApplication.Infra\bin\Debug\netcoreapp3.1\TestApplication.Infra.pdb
+C:\Users\vjunior\source\repos\TestApplication\TestApplication.Infra\bin\Debug\netcoreapp3.1\TestApplication.Domain.dll
+C:\Users\vjunior\source\repos\TestApplication\TestApplication.Infra\bin\Debug\netcoreapp3.1\TestApplication.Domain.pdb
+C:\Users\vjunior\source\repos\TestApplication\TestApplication.Infra\obj\Debug\netcoreapp3.1\TestApplication.Infra.csproj.AssemblyReference.cache
+C:\Users\vjunior\source\repos\TestApplication\TestApplication.Infra\obj\Debug\netcoreapp3.1\TestApplication.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vjunior\source\repos\TestApplication\TestApplication.Infra\obj\Debug\netcoreapp3.1\TestApplication.Infra.AssemblyInfoInputs.cache
+C:\Users\vjunior\source\repos\TestApplication\TestApplication.Infra\obj\Debug\netcoreapp3.1\TestApplication.Infra.AssemblyInfo.cs
+C:\Users\vjunior\source\repos\TestApplication\TestApplication.Infra\obj\Debug\netcoreapp3.1\TestApplication.Infra.csproj.CoreCompileInputs.cache
+C:\Users\vjunior\source\repos\TestApplication\TestApplication.Infra\obj\Debug\netcoreapp3.1\TestApplication.Infra.csproj.CopyComplete
+C:\Users\vjunior\source\repos\TestApplication\TestApplication.Infra\obj\Debug\netcoreapp3.1\TestApplication.Infra.dll
+C:\Users\vjunior\source\repos\TestApplication\TestApplication.Infra\obj\Debug\netcoreapp3.1\TestApplication.Infra.pdb

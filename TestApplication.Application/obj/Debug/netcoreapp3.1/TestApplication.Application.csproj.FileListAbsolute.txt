@@ -1,0 +1,13 @@
+C:\Users\vjunior\source\repos\TestApplication\TestApplication.Application\bin\Debug\netcoreapp3.1\TestApplication.Application.deps.json
+C:\Users\vjunior\source\repos\TestApplication\TestApplication.Application\bin\Debug\netcoreapp3.1\TestApplication.Application.dll
+C:\Users\vjunior\source\repos\TestApplication\TestApplication.Application\bin\Debug\netcoreapp3.1\TestApplication.Application.pdb
+C:\Users\vjunior\source\repos\TestApplication\TestApplication.Application\bin\Debug\netcoreapp3.1\TestApplication.Domain.dll
+C:\Users\vjunior\source\repos\TestApplication\TestApplication.Application\bin\Debug\netcoreapp3.1\TestApplication.Domain.pdb
+C:\Users\vjunior\source\repos\TestApplication\TestApplication.Application\obj\Debug\netcoreapp3.1\TestApplication.Application.csproj.AssemblyReference.cache
+C:\Users\vjunior\source\repos\TestApplication\TestApplication.Application\obj\Debug\netcoreapp3.1\TestApplication.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vjunior\source\repos\TestApplication\TestApplication.Application\obj\Debug\netcoreapp3.1\TestApplication.Application.AssemblyInfoInputs.cache
+C:\Users\vjunior\source\repos\TestApplication\TestApplication.Application\obj\Debug\netcoreapp3.1\TestApplication.Application.AssemblyInfo.cs
+C:\Users\vjunior\source\repos\TestApplication\TestApplication.Application\obj\Debug\netcoreapp3.1\TestApplication.Application.csproj.CoreCompileInputs.cache
+C:\Users\vjunior\source\repos\TestApplication\TestApplication.Application\obj\Debug\netcoreapp3.1\TestApplication.Application.csproj.CopyComplete
+C:\Users\vjunior\source\repos\TestApplication\TestApplication.Application\obj\Debug\netcoreapp3.1\TestApplication.Application.dll
+C:\Users\vjunior\source\repos\TestApplication\TestApplication.Application\obj\Debug\netcoreapp3.1\TestApplication.Application.pdb
