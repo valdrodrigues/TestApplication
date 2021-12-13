@@ -3,6 +3,7 @@ using System.Net;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using TestApplication.Domain.IApplication;
+using TestApplication.Domain.Utils;
 
 namespace TestApplication.Controllers
 {
@@ -41,7 +42,10 @@ namespace TestApplication.Controllers
         {
             try
             {
-                decimal retorno = await _singletonCalculadorInssApplication.CalcularDesconto(data.Year, salario);
+                RetornoRequisicao<decimal> retorno = await _singletonCalculadorInssApplication.CalcularDesconto(data.Year, salario);
+
+                if (retorno.Status == HttpStatusCode.NoContent)
+                    return StatusCode((int)HttpStatusCode.OK, retorno);
 
                 return StatusCode((int)HttpStatusCode.OK, retorno);
             }

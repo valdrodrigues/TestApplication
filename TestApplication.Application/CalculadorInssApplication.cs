@@ -1,8 +1,10 @@
 ﻿using System.Linq;
+using System.Net;
 using System.Threading.Tasks;
 using TestApplication.Domain.Entity;
 using TestApplication.Domain.IApplication;
 using TestApplication.Domain.IRepository;
+using TestApplication.Domain.Utils;
 
 namespace TestApplication.Application
 {
@@ -15,9 +17,18 @@ namespace TestApplication.Application
             _tabelaDescontoService = tabelaDescontoService;
         }
 
-        public async Task<decimal> CalcularDesconto(int ano, decimal salario)
+        public async Task<RetornoRequisicao<decimal>> CalcularDesconto(int ano, decimal salario)
         {
             TabelaDesconto tabela = await _tabelaDescontoService.BuscarTabelaPeloAno(ano);
+
+            if (tabela == null)
+            {
+                return new RetornoRequisicao<decimal>()
+                {
+                    Status = HttpStatusCode.NoContent,
+                    Mensagem = "Não existe tabela de desconto cadastrada para a data informada!"
+                };
+            }
 
             decimal aliquota = 0;
             decimal maiorSalario = 0;
@@ -46,7 +57,11 @@ namespace TestApplication.Application
 
             ValidarValorDescontoTeto(tabela.Teto, ref valorDesconto);
 
-            return valorDesconto;
+            return new RetornoRequisicao<decimal>()
+            {
+                Objeto = valorDesconto,
+                Status = HttpStatusCode.OK
+            };
         }
 
         private void ValidarAliquotaTeto(TabelaDesconto tabela, decimal salario, decimal maiorSalario, ref decimal aliquota)
